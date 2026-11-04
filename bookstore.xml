@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl"?>
+<bookstore>
+  <book isbn="978-0140449136">
+    <title>The Odyssey</title>
+    <author>Homer</author>
+    <price>12.99</price>
+    <stock>23</stock>
+  </book>
+  <book isbn="978-0261103573">
+    <title>The Lord of the Rings</title>
+    <author>J.R.R. Tolkien</author>
+    <price>22.50</price>
+    <stock>12</stock>
+  </book>
+  <book isbn="978-0439139601">
+    <title>Harry Potter and the Goblet of Fire</title>
+    <author>J.K. Rowling</author>
+    <price>18.00</price>
+    <stock>34</stock>
+  </book>
+</bookstore>
